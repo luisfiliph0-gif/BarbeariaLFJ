@@ -2,32 +2,26 @@
 
 > Projeto prático desenvolvido para a disciplina de **Linguagem de Programação** (Prof. Allanyo Santos), implementando um sistema CRUD completo em Python integrado a um banco de dados relacional MySQL.
 
----
 
 ## 1. Descrição e Objetivo do Sistema
 # BarbeariaLFJ
 Desenvolver um sistema computacional utilizando a linguagem Python, CRUD, aplicando os conceitos de programação estudados durante a disciplina. O sistema deverá implementar as quatro operações fundamentais de um CRUD (Create, Read, Update e Delete), permitindo cadastrar, consultar, atualizar e excluir informações.
 
----
 
 ## 2. Problema que o Sistema Busca Resolver
 O controle manual de horários em agendas de papel ou mensagens soltas frequentemente gera conflitos de agendamento, esquecimento de atendimentos, dificuldade para localizar o histórico de serviços de um cliente e falta de clareza sobre os valores cobrados. O sistema resolve esse problema centralizando todos os agendamentos em um banco de dados estruturado, garantindo consulta rápida, atualização ágil de status (Agendado, Concluído, Cancelado) e integridade das informações.
 
----
 
 ## 3. Integrantes da Equipe
 * **[Nome Completo do Integrante 1]** — GitHub: `[@joasbispo-ai](https://github.com/joasbispo-ai)`
-* **[Nome Completo do Integrante 2 (caso seja em dupla)]** — GitHub: `[@usuario2](https://github.com/usuario2)`
-
----
+* **[Nome Completo do Integrante 2 (caso seja em dupla)]** — GitHub: `[@luisfiliph0-gif]
+(https://github.com/luisfiliph0-gif)`
 
 ## 4. Tecnologias Utilizadas
 * **Linguagem:** Python 3.x
 * **Banco de Dados:** MySQL Server & MySQL Workbench
 * **Driver de Conexão:** `mysql-connector-python`
 * **Versionamento:** Git e GitHub
-
----
 
 ## 5. Funcionalidades Implementadas
 * **RF01 — Cadastro (Create):** Registro de novos agendamentos contendo nome do cliente, telefone/WhatsApp, tipo de serviço, barbeiro responsável, data/horário e valor.
