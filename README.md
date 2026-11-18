@@ -17,7 +17,7 @@ O controle manual de horários em agendas de papel ou mensagens soltas frequente
 
 ## 3. Integrantes da Equipe
 * **[Nome Completo do Integrante 1]** — GitHub: `[@joasbispo-ai](https://github.com/joasbispo-ai)`
-* **[Nome Completo do Integrante 2 (caso seja em dupla)]** — GitHub: `[@usuario2](https://github.com/usuario2)`
+* **[Nome Completo do Integrante 2 (caso seja em dupla)]** — GitHub: `[@luisfiliph0-gif](https://github.com/luisfiliph0-gif)`
 
 ---
 
